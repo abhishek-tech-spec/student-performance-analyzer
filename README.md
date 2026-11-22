@@ -48,3 +48,8 @@ Good performance!
 Abhishek
 
 This is my first programming project as I explore Software Engineering and Data Science.
+## 📊 Student Performance Visualization
+
+Here is a visual representation of the student's marks:
+
+![Student Performance Graph](student_performance.png)
